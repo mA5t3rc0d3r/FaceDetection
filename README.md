@@ -21,8 +21,10 @@ To use JavaCV, you will first need to download and install the following softwar
 
 An implementation of Java SE 7 or newer:
 
-OpenJDK http://openjdk.java.net/install/ or
-Sun JDK http://www.oracle.com/technetwork/java/javase/downloads/ or
+OpenJDK http://openjdk.java.net/install/  or
+
+Sun JDK http://www.oracle.com/technetwork/java/javase/downloads/  or
+
 IBM JDK http://www.ibm.com/developerworks/java/jdk/
 
 
@@ -46,3 +48,7 @@ Select all the JAR files from the libs subdirectory.
 After that, the wrapper classes for OpenCV and FFmpeg, for example, can automatically access all of their C/C++ APIs:
 
 1. OpenCV : http://docs.opencv.org/master/
+
+Hope , it will be easy to use the given Project.
+
+Code4Fun....
